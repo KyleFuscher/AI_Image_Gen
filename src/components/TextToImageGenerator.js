@@ -24,7 +24,7 @@ const TextToImageGenerator = () => {
       method: 'POST', // HTTP method
       url: 'https://ai-image-generator3.p.rapidapi.com/generate', // API endpoint
       headers: {
-        'x-rapidapi-key': 'AIzaSyBLxy66o3iVLdSNj4qBDU4mdA2O_m2F1vQ', // API key
+        'x-rapidapi-key': '9e8dc40c16msh97656cca1e1a851p16e83ejsnfeb786da6dff', // API key
         'x-rapidapi-host': 'ai-image-generator3.p.rapidapi.com', // API host
         'Content-Type': 'application/json' // Content type of the request
       },
